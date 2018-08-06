@@ -12,7 +12,7 @@ umount /dev/sdb1
 
 #check again
 df -h
-#should be only /dev/sda (that's the comp harddrive)
+#should be only /dev/sda (that's the comp harddrive) - check on machine first
 
 #flash the card
 #the operating system is on the desktop:
