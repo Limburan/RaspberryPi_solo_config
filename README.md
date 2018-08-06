@@ -1,2 +1,2 @@
 # RaspberryPi_solo_config
-SOLO configuration for crocs
+SOLO acoustic recorder Linux flashing configuration for crocodiles.
